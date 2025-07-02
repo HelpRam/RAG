@@ -1,4 +1,4 @@
-# 🎥 YouTube Chatbot (RAG-based) – Google Colab Project
+# 🎥 YouTube Chatbot RAG-based Project
 
 This project is a **Retrieval-Augmented Generation (RAG)** based chatbot built in **Google Colab**. It enables users to ask questions about any YouTube video by extracting its transcript, indexing it using FAISS, and generating answers using LLMs **OpenAI GPT**.
 
